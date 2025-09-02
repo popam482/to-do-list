@@ -1,0 +1,39 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom, #90a3a0, #b1ccc7, #e6f2f0);
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+
+.button {
+    -fx-background-color: linear-gradient(to right, #06beb6, #48b1bf);
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+    -fx-padding: 8px 18px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 6, 0, 0, 2);
+    -fx-font-weight: bold; 
+}
+
+
+.button:hover {
+    -fx-background-color: linear-gradient(to right, #48b1bf, #06beb6);
+}
+
+
+.text-field, .password-field {
+    -fx-background-color: #7c7b85;
+    -fx-text-fill: #eee;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-border-color: #3aafa9;
+    -fx-border-radius: 10px;
+    -fx-padding: 5px 10px;
+}
+
+
+#titleLabel {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( gaussian , black , 5 , 0.7 , 0 , 0 );
+}
+

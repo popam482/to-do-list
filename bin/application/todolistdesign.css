@@ -1,0 +1,45 @@
+.root {
+	-fx-background-color: linear-gradient(to bottom, #90a3a0, #b1ccc7, #e6f2f0);
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+
+.button {
+    -fx-background-color: linear-gradient(to right, #06beb6, #48b1bf);
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+    -fx-padding: 8px 18px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 6, 0, 0, 2);
+    -fx-font-weight: bold; 
+}
+
+
+.button:hover {
+    -fx-background-color: linear-gradient(to right, #48b1bf, #06beb6);
+}
+
+.check-box {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+.check-box .box {
+    -fx-background-color: #eee; 
+	-fx-background-color: #eee; 
+	-fx-border-color: #3aafa9;
+	-fx-border-width: 2;
+	-fx-background-radius: 5;
+	-fx-border-radius: 5;
+	-fx-padding: 2;
+}
+
+#titleLabel {
+    -fx-font-size: 51px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( gaussian , black , 5 , 0.7 , 0 , 0 );
+}
+
+
+
