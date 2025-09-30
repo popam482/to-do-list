@@ -4,8 +4,7 @@
 **Overview**
 
 
-JavaFX To-Do List is a modern, secure, and user-friendly task management application designed to help users organize daily tasks efficiently. Built with Java and JavaFX, it combines an intuitive GUI, secure authentication, personalized task storage, and smart task management features. This project is suitable for showcasing in portfolios or CVs.
-
+JavaFX To-Do List is a modern, secure, and user-friendly task management application designed to help users organize daily tasks efficiently. Built with Java and JavaFX, it combines an intuitive GUI, secure authentication, personalized task storage, and smart task management features. 
 
 **Features**
 
